@@ -36,5 +36,3 @@ puts multiplication(1,2)
 puts modulo(1,2)
 puts square_root(3)
 puts order_of_operation(1,2,3,4)
-
-
