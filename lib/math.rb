@@ -29,7 +29,7 @@ def order_of_operation(num1, num2, num3, num4)
 end
 
 
-puts addition(1,2)
+puts addition(5,4)
 puts subtraction(1,2)
 puts division(1,2)
 puts multiplication(1,2)
